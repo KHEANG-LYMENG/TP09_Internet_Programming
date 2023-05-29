@@ -3,17 +3,17 @@
   "firstname": "lymeng",
   "lastname": "kheang",
   "email": "lymeng@gmail.com",
-  "password": "$2a$10$jtMw/ktZf2qyCAtwmU2VGu93c1Dvb/BuWiqvYybc0LxPjU2Coy.Fy"
+  "password": "123456"
 },{
   "username": "Lymeng123",
   "firstname": "meng",
   "lastname": "Ly",
   "email": "lymeng123@gmail.com",
-  "password": "$2a$10$lGV5A.PfY1HkbFa.ZTcqRudLgM9cZ/7WPD/uNJ11Ar./8FqRkzXgm"
+  "password": "123456"
 },{
   "username": "admin",
   "firstname": "admin",
   "lastname": "admin",
   "email": "admin@gmail.com",
-  "password": "$2a$10$vQvzlF0q6qkTU0AhEf3l6.wQmologQyYnAmMAObrJwRSvQ5egB1D2"
+  "password": "admin123"
 }]
